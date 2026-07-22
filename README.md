@@ -11,7 +11,7 @@ HELLO!!! MY NAME IS DANIEL/KRATCY, free feel to call me any of those. Nicknames 
 <img width="291" height="277" alt="image" src="https://github.com/user-attachments/assets/37037c6d-ab03-4d94-bf8f-c455dd10812b" />
 
 # For Discord: (°ロ°)
-> DM's & friend request are always on, expect me to accept your friend request unless you're in my DNI list. I block freely so if you don't see my bio/status/activity etc than sorry not sorry, I just blocked you. Not really good at comforting so I might be having a hard time trying to make you feel better. Blah blah blah, I'm too lazy to write more for my discord, you can interact with me there, idc.
+> DM's & friend request are always on, expect me to accept your friend request unless you're in my DNI list. I block freely so if you don't see my bio/status/activity etc then sorry not sorry, I just blocked you. Not really good at comforting so I might be having a hard time trying to make you feel better. Blah blah blah, I'm too lazy to write more for my discord, you can interact with me there, idc.
 
 <img width="386" height="532" alt="image" src="https://github.com/user-attachments/assets/029ea3fe-afff-47e7-a2ec-0ec89a05ed28" />
 
