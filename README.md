@@ -1,4 +1,4 @@
- - uses: Platane/snk@master
+- uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: sprout-seedly-berryfunny
