@@ -1,30 +1,3 @@
-- uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: sprout-seedly-berryfunny
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-   
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 # ABOUT ME  !!! (°ロ°)
 HELLO!!! MY NAME IS DANIEL/KRATCY, free feel to call me any of those. Nicknames are allowed!
 
